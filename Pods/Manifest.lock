@@ -1,0 +1,20 @@
+PODS:
+  - Kingfisher (4.8.1)
+  - MBProgressHUD (1.0.0)
+
+DEPENDENCIES:
+  - Kingfisher
+  - MBProgressHUD (~> 1.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Kingfisher
+    - MBProgressHUD
+
+SPEC CHECKSUMS:
+  Kingfisher: 868c1149679a7ab6869be118faa9b5aed154aaf0
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+
+PODFILE CHECKSUM: 5b1ed5a1c3d7e9d62d2d50a2da701d48965562d0
+
+COCOAPODS: 1.5.3
